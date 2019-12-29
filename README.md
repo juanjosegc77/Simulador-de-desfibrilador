@@ -16,5 +16,10 @@ Se realizó un sistema retroalimentado para detectar la onda R de una señal de 
  * La computadora recibe el valor devuelto desde el MSP430 en el conector para micrófono. Con MATLAB se lee dicho valor, si el valor es 0 no sucede nada, si el valor es 1 se reinicia la reproducción de la señal de ECG.
  
  
+ ![esquema](https://user-images.githubusercontent.com/58958653/71551369-69d5ff00-29ab-11ea-8e06-d7303a1f28d6.png)
+
+
+ 
+ 
  
  
